@@ -7,7 +7,7 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": [ "#6c7086", "#6c7086" ],
+    "ANDROID_RIPPLE": [ "#8c3c6f", "#8c3c6f" ],
     "BACKGROUND_ACCENT": [ "#f5c2e7", "#f5c2e7" ],
     "BACKGROUND_MENTIONED": [ "#f9e2af17", "#f9e2af17" ],
     "BACKGROUND_MENTIONED_HOVER": [ "#9399b2", "#9399b2" ],
@@ -27,7 +27,7 @@
     "BG_BASE_TERTIARY": [ "#11111b", "#11111b" ],
     "EMBED_BACKGROUND": [ "#313244", "#313244" ],
     "CARD_PRIMARY_BG": [ "#873571", "#873571" ],
-    "CARD_PRIMARY_PRESSED_BG": [ "#6c7086", "#6c7086"],
+    "CARD_PRIMARY_PRESSED_BG": [ "#8c3c6f", "#8c3c6f"],
     "CARD_SECONDARY_BG": [ "#873571" ],
     "CHANNEL_ICON": [ "#9399b2", "#9399b2" ],
     "CHANNELS_DEFAULT": [ "#a6adc8", "#a6adc8" ],
@@ -53,7 +53,7 @@
     "THREAD_CHANNEL_SPINE": [ "#585b70", "#585b70" ]
   },
   "rawColors": {
-    "BRAND_260": "#6c7086",
+    "BRAND_260": "#8c3c6f",
     "BRAND_300": "#f5c2e7",
     "BRAND_360": "#f5c2e7",
     "BRAND_500": "#f5c2e7",
@@ -89,7 +89,7 @@
     "PRIMARY_730": "#11111b",
     "PRIMARY_800": "#2e1a25",
     "PLUM_10": "#9399b2",
-    "PLUM_13": "#6c7086",
+    "PLUM_13": "#8c3c6f",
     "PLUM_14": "#585b70",
     "PLUM_15": "#45475a",
     "PLUM_16": "#313244",
